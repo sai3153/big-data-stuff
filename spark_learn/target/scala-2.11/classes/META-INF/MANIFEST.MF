@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: com.sparklearn.org.logAnalysis
+Main-Class: com.sparklearn.org.logAnalysis
+
